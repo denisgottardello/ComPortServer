@@ -1,0 +1,179 @@
+# Denis <info@denisgottardello.it>, 2018.
+msgid ""
+msgstr ""
+"Last-Translator: Denis <info@denisgottardello.it>\n"
+"PO-Revision-Date: 2018-10-10 22:07+0100\n"
+"Project-Id-Version: \n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"Language: it_IT\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: tmainform.caption
+msgid "ComPort Manager"
+msgstr ""
+
+#: tmainform.groupbox1.caption
+msgid "Com ports"
+msgstr "Porte seriali"
+
+#: tmainform.menuitem1.caption
+msgid "Main"
+msgstr ""
+
+#: tmainform.tbbdelete.caption
+msgid "Delete"
+msgstr "Elimina"
+
+#: tmainform.tbbnewport.caption
+msgid "New port"
+msgstr "Nuova porta"
+
+#: tmainform.tbbquit.caption
+msgctxt "tmainform.tbbquit.caption"
+msgid "Quit"
+msgstr "Chiudi"
+
+#: tmainform.tmiinfo.caption
+msgid "Info"
+msgstr ""
+
+#: tmainform.tmiquit.caption
+msgctxt "tmainform.tmiquit.caption"
+msgid "Quit"
+msgstr "Chiudi"
+
+#: tserialport.bitbtn1.caption
+msgid "&OK"
+msgstr ""
+
+#: tserialport.bitbtn2.caption
+msgid "Annulla"
+msgstr ""
+
+#: tserialport.caption
+msgctxt "tserialport.caption"
+msgid "Serial port"
+msgstr "Porta seriale"
+
+#: tserialport.groupbox1.caption
+msgid "Serial port setup"
+msgstr "Setup porta seriale"
+
+#: tserialport.groupbox2.caption
+msgid "Log"
+msgstr ""
+
+#: tserialport.groupbox3.caption
+msgid "Serial and network timeouts"
+msgstr "Timeout seriale e rete"
+
+#: tserialport.groupbox4.caption
+msgid "Mode"
+msgstr "Modo"
+
+#: tserialport.label1.caption
+msgid "Local socket"
+msgstr "Socket locale"
+
+#: tserialport.label10.caption
+msgid "Send recv timeout"
+msgstr "Ingia ricevi timeout"
+
+#: tserialport.label11.caption
+msgid "Buffer length"
+msgstr ""
+
+#: tserialport.label12.caption
+msgid "Remote socket"
+msgstr "Socket remoto"
+
+#: tserialport.label2.caption
+msgctxt "tserialport.label2.caption"
+msgid "Serial port"
+msgstr "Porta seriale"
+
+#: tserialport.label3.caption
+msgid "Velocity"
+msgstr "Velocità"
+
+#: tserialport.label4.caption
+msgid "Parity"
+msgstr ""
+
+#: tserialport.label5.caption
+msgid "Data bits"
+msgstr ""
+
+#: tserialport.label6.caption
+msgid "Stop bits"
+msgstr ""
+
+#: tserialport.label7.caption
+msgid "Remote socket timeout (s)"
+msgstr "Timeout socket remoto"
+
+#: tserialport.label8.caption
+msgid "Remote Ip"
+msgstr "Ip remoto"
+
+#: tserialport.label9.caption
+msgid "Log file name"
+msgstr "Nome file log"
+
+#: tserialport.tcbdatabits.text
+msgid "8"
+msgstr ""
+
+#: tserialport.tcbhardflow.caption
+msgid "Hard flow"
+msgstr ""
+
+#: tserialport.tcblogincoming.caption
+msgid "Log Incoming"
+msgstr "Log ingresso"
+
+#: tserialport.tcblogoutoing.caption
+msgid "Log outoing"
+msgstr "Log uscente"
+
+#: tserialport.tcbparity.text
+msgid "N - None"
+msgstr ""
+
+#: tserialport.tcbrtstoggle.caption
+msgid "RTS toggle (485)"
+msgstr ""
+
+#: tserialport.tcbsoftflow.caption
+msgid "Soft flow"
+msgstr ""
+
+#: tserialport.tcbstopbits.text
+msgid "1"
+msgstr ""
+
+#: tserialport.tcbvelocity.text
+msgid "1200"
+msgstr ""
+
+#: tserialport.telogfilename.text
+msgid "File.log"
+msgstr ""
+
+#: tserialport.trbserialporttoremotehost.caption
+msgid "Serial port to remote host"
+msgstr "Seriale verso host remoto"
+
+#: tserialport.trbservertoremotehost.caption
+msgid "Server mode to remote host"
+msgstr "Modo server verso host remoto"
+
+#: tserialport.trbservertoserialport.caption
+msgid "Server mode to serial port"
+msgstr "Modo server verso porta seriale"
+
+

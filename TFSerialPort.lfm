@@ -1,7 +1,7 @@
 object SerialPort: TSerialPort
-  Left = 2292
+  Left = 2283
   Height = 406
-  Top = 144
+  Top = 267
   Width = 796
   Caption = 'Serial port'
   ClientHeight = 406
@@ -4324,7 +4324,7 @@ object SerialPort: TSerialPort
     Height = 212
     Top = 150
     Width = 466
-    Caption = 'Seria port setup'
+    Caption = 'Serial port setup'
     ClientHeight = 193
     ClientWidth = 464
     TabOrder = 1
@@ -4337,7 +4337,7 @@ object SerialPort: TSerialPort
       ParentColor = False
     end
     object TCBSerialPort: TComboBox
-      Left = 80
+      Left = 90
       Height = 30
       Top = 16
       Width = 128
@@ -4576,7 +4576,7 @@ object SerialPort: TSerialPort
       TabStop = True
     end
     object TRBSerialPortToRemoteHost: TRadioButton
-      Left = 440
+      Left = 450
       Height = 21
       Top = 8
       Width = 178
@@ -4652,7 +4652,7 @@ object SerialPort: TSerialPort
       Value = 1025
     end
     object TRBServerToRemoteHost: TRadioButton
-      Left = 216
+      Left = 226
       Height = 21
       Top = 8
       Width = 193

@@ -6,7 +6,8 @@
       <Unit0>
         <Filename Value="ComPortManager.lpr"/>
         <IsPartOfProject Value="True"/>
-        <CursorPos Y="12"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="39" Y="10"/>
         <UsageCount Value="29"/>
       </Unit0>
       <Unit1>
@@ -15,12 +16,9 @@
         <ComponentName Value="MainForm"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="70"/>
-        <CursorPos X="3" Y="74"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="27" Y="9"/>
         <UsageCount Value="29"/>
-        <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="TFPort.pas"/>
@@ -48,17 +46,18 @@
         <UnitName Value="TFSerialPort"/>
         <TopLine Value="44"/>
         <CursorPos X="19" Y="97"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="20"/>
       </Unit6>
       <Unit7>
         <Filename Value="TFSerialPort.pas"/>
+        <IsPartOfProject Value="True"/>
         <ComponentName Value="SerialPort"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <EditorIndex Value="1"/>
+        <IsVisibleTab Value="True"/>
         <TopLine Value="66"/>
         <CursorPos X="3" Y="81"/>
-        <UsageCount Value="12"/>
+        <UsageCount Value="20"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit7>
@@ -71,127 +70,51 @@
         <UsageCount Value="10"/>
       </Unit8>
     </Units>
-    <JumpHistory Count="30" HistoryIndex="29">
+    <JumpHistory Count="11" HistoryIndex="10">
       <Position1>
         <Filename Value="TFSerialPort.pas"/>
-        <Caret Line="97" Column="54" TopLine="45"/>
+        <Caret Line="79" Column="3" TopLine="63"/>
       </Position1>
       <Position2>
         <Filename Value="TFSerialPort.pas"/>
-        <Caret Line="96" Column="54" TopLine="44"/>
+        <Caret Line="80" Column="3" TopLine="64"/>
       </Position2>
       <Position3>
         <Filename Value="TFSerialPort.pas"/>
-        <Caret Line="95" Column="54" TopLine="43"/>
+        <Caret Line="81" Column="3" TopLine="65"/>
       </Position3>
       <Position4>
         <Filename Value="TFSerialPort.pas"/>
-        <Caret Line="94" Column="54" TopLine="42"/>
+        <Caret Line="82" Column="3" TopLine="66"/>
       </Position4>
       <Position5>
         <Filename Value="TFSerialPort.pas"/>
-        <Caret Line="102" Column="54" TopLine="48"/>
+        <Caret Line="81" Column="3" TopLine="65"/>
       </Position5>
       <Position6>
         <Filename Value="TFSerialPort.pas"/>
-        <Caret Line="78" Column="3" TopLine="62"/>
+        <Caret Line="82" Column="3" TopLine="66"/>
       </Position6>
       <Position7>
         <Filename Value="TFSerialPort.pas"/>
-        <Caret Line="79" Column="3" TopLine="63"/>
+        <Caret Line="81" Column="3" TopLine="65"/>
       </Position7>
       <Position8>
         <Filename Value="TFSerialPort.pas"/>
-        <Caret Line="80" Column="3" TopLine="64"/>
+        <Caret Line="82" Column="3" TopLine="66"/>
       </Position8>
       <Position9>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="12" Column="23"/>
+        <Filename Value="TFSerialPort.pas"/>
+        <Caret Line="81" Column="3" TopLine="66"/>
       </Position9>
       <Position10>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="84" Column="102" TopLine="50"/>
+        <Filename Value="TFSerialPort.pas"/>
+        <Caret Line="82" Column="3" TopLine="67"/>
       </Position10>
       <Position11>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="91" Column="54" TopLine="57"/>
+        <Filename Value="TFSerialPort.pas"/>
+        <Caret Line="81" Column="3" TopLine="66"/>
       </Position11>
-      <Position12>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="122" Column="122" TopLine="88"/>
-      </Position12>
-      <Position13>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="265" Column="110" TopLine="217"/>
-      </Position13>
-      <Position14>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="91" Column="54" TopLine="57"/>
-      </Position14>
-      <Position15>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="13" Column="3"/>
-      </Position15>
-      <Position16>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="84" Column="166" TopLine="50"/>
-      </Position16>
-      <Position17>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="17" Column="28"/>
-      </Position17>
-      <Position18>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="93" Column="75" TopLine="58"/>
-      </Position18>
-      <Position19>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="131" Column="113" TopLine="97"/>
-      </Position19>
-      <Position20>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="173" Column="69" TopLine="139"/>
-      </Position20>
-      <Position21>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="208" Column="63" TopLine="173"/>
-      </Position21>
-      <Position22>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="262" Column="87" TopLine="227"/>
-      </Position22>
-      <Position23>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="257" Column="71" TopLine="214"/>
-      </Position23>
-      <Position24>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="86" Column="61" TopLine="51"/>
-      </Position24>
-      <Position25>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="288" TopLine="238"/>
-      </Position25>
-      <Position26>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="285" Column="44" TopLine="238"/>
-      </Position26>
-      <Position27>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="85" Column="42" TopLine="51"/>
-      </Position27>
-      <Position28>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="86" Column="47" TopLine="51"/>
-      </Position28>
-      <Position29>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="97" Column="37" TopLine="49"/>
-      </Position29>
-      <Position30>
-        <Filename Value="TFMainForm.pas"/>
-        <Caret Line="196" Column="32" TopLine="184"/>
-      </Position30>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>

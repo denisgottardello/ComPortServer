@@ -111,6 +111,7 @@ begin
       K:= GetKeyEvent;
       K:= TranslateKeyEvent(K);
     end;
+    Sleep(100);
   Until (GetKeyEventChar(K)= 'q') or CanClose;
   DoneKeyBoard;
 end;

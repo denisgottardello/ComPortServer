@@ -6,10 +6,12 @@
       <Unit0>
         <Filename Value="ComPortServer.lpr"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="-1"/>
-        <TopLine Value="99"/>
-        <CursorPos X="20" Y="166"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="105"/>
+        <CursorPos X="16" Y="114"/>
         <UsageCount Value="38"/>
+        <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="UMainClass.pas"/>
@@ -36,9 +38,8 @@
       </Unit3>
       <Unit4>
         <Filename Value="UThTCPServer.pas"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="311"/>
-        <CursorPos X="71" Y="370"/>
+        <TopLine Value="201"/>
+        <CursorPos X="11" Y="265"/>
         <UsageCount Value="16"/>
         <Loaded Value="True"/>
       </Unit4>

@@ -4302,7 +4302,7 @@ object MainForm: TMainForm
     Left = 16
     Height = 30
     Top = 10
-    Width = 75
+    Width = 96
     Caption = 'New port'
     OnClick = TBBNewPortClick
     TabOrder = 0
@@ -4342,7 +4342,7 @@ object MainForm: TMainForm
     end
   end
   object TBBDelete: TBitBtn
-    Left = 104
+    Left = 120
     Height = 30
     Top = 10
     Width = 75

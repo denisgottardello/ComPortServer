@@ -1,0 +1,167 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tmainform.caption
+msgid "ComPort Manager"
+msgstr ""
+
+#: tmainform.groupbox1.caption
+msgid "Com ports"
+msgstr ""
+
+#: tmainform.menuitem1.caption
+msgid "Main"
+msgstr ""
+
+#: tmainform.tbbdelete.caption
+msgid "Delete"
+msgstr ""
+
+#: tmainform.tbbnewport.caption
+msgid "New port"
+msgstr ""
+
+#: tmainform.tbbquit.caption
+msgctxt "tmainform.tbbquit.caption"
+msgid "Quit"
+msgstr ""
+
+#: tmainform.tmiinfo.caption
+msgid "Info"
+msgstr ""
+
+#: tmainform.tmiquit.caption
+msgctxt "tmainform.tmiquit.caption"
+msgid "Quit"
+msgstr ""
+
+#: tserialport.bitbtn1.caption
+msgid "&OK"
+msgstr ""
+
+#: tserialport.bitbtn2.caption
+msgid "Annulla"
+msgstr ""
+
+#: tserialport.caption
+msgctxt "tserialport.caption"
+msgid "Serial port"
+msgstr ""
+
+#: tserialport.groupbox1.caption
+msgid "Serial port setup"
+msgstr ""
+
+#: tserialport.groupbox2.caption
+msgid "Log"
+msgstr ""
+
+#: tserialport.groupbox3.caption
+msgid "Serial and network timeouts"
+msgstr ""
+
+#: tserialport.groupbox4.caption
+msgid "Mode"
+msgstr ""
+
+#: tserialport.label1.caption
+msgid "Local socket"
+msgstr ""
+
+#: tserialport.label10.caption
+msgid "Send recv timeout"
+msgstr ""
+
+#: tserialport.label11.caption
+msgid "Buffer length"
+msgstr ""
+
+#: tserialport.label12.caption
+msgid "Remote socket"
+msgstr ""
+
+#: tserialport.label2.caption
+msgctxt "tserialport.label2.caption"
+msgid "Serial port"
+msgstr ""
+
+#: tserialport.label3.caption
+msgid "Velocity"
+msgstr ""
+
+#: tserialport.label4.caption
+msgid "Parity"
+msgstr ""
+
+#: tserialport.label5.caption
+msgid "Data bits"
+msgstr ""
+
+#: tserialport.label6.caption
+msgid "Stop bits"
+msgstr ""
+
+#: tserialport.label7.caption
+msgid "Remote socket timeout (s)"
+msgstr ""
+
+#: tserialport.label8.caption
+msgid "Remote Ip"
+msgstr ""
+
+#: tserialport.label9.caption
+msgid "Log file name"
+msgstr ""
+
+#: tserialport.tcbdatabits.text
+msgid "8"
+msgstr ""
+
+#: tserialport.tcbhardflow.caption
+msgid "Hard flow"
+msgstr ""
+
+#: tserialport.tcblogincoming.caption
+msgid "Log Incoming"
+msgstr ""
+
+#: tserialport.tcblogoutoing.caption
+msgid "Log outoing"
+msgstr ""
+
+#: tserialport.tcbparity.text
+msgid "N - None"
+msgstr ""
+
+#: tserialport.tcbrtstoggle.caption
+msgid "RTS toggle (485)"
+msgstr ""
+
+#: tserialport.tcbsoftflow.caption
+msgid "Soft flow"
+msgstr ""
+
+#: tserialport.tcbstopbits.text
+msgid "1"
+msgstr ""
+
+#: tserialport.tcbvelocity.text
+msgid "1200"
+msgstr ""
+
+#: tserialport.telogfilename.text
+msgid "File.log"
+msgstr ""
+
+#: tserialport.trbserialporttoremotehost.caption
+msgid "Serial port to remote host"
+msgstr ""
+
+#: tserialport.trbservertoremotehost.caption
+msgid "Server mode to remote host"
+msgstr ""
+
+#: tserialport.trbservertoserialport.caption
+msgid "Server mode to serial port"
+msgstr ""
+
